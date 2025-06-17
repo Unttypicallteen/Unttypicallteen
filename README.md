@@ -18,6 +18,7 @@
 ### 📁 Proyectos destacados
 
 🃏 Simulador de BlackJack en C++ – Lógica de juego y manejo de turnos
+
 Desarrollo de un juego interactivo de BlackJack por consola, implementado desde cero en C++ en colaboración con amigos.
 
 👩‍💻 Mi participación:
@@ -31,6 +32,7 @@ Desarrollo de un juego interactivo de BlackJack por consola, implementado desde 
 📌 Tecnologías: C++, Estructuras condicionales, Lógica de juego, Consola interactiva.
 
 ✈️ Vuelos Analytics CO 2024 – Dash + PostgreSQL
+
 Desarrollo de una herramienta interactiva en Python usando Dash y Plotly para analizar el comportamiento del tráfico aéreo en Colombia.
 Se conectó directamente a una base de datos PostgreSQL para generar gráficas en tiempo real sobre:
 
@@ -47,6 +49,7 @@ Incluye un frontend web con navegación de escenarios y conclusiones analíticas
 📌 Tecnologías: Dash, Plotly, PostgreSQL, pandas, SQL, Python.
 
 🅿️ Corner-X MACC – Gestión de Parqueaderos con Dash y PostgreSQL
+
 Proyecto colaborativo para construir una plataforma de administración de parqueaderos y monitoreo de accesos vehiculares.
 
 👩‍💻 Mi participación:
