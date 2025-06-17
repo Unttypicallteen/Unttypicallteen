@@ -1,7 +1,9 @@
 <h1 align="center">Hola, soy Santiago Jorigua 👋</h1>
 
 📍 Joven colombiano apasionado por la ciencia de datos.
+
 📚 Actualmente estoy estudiando Matematicas Aplicadas y Ciencias de la Computación en la Universidad del Rosario
+
 📊 Me encanta aprender, resolver problemas reales y, sobre todo, ayudar.
 
 ---
