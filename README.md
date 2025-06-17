@@ -24,15 +24,16 @@ Proyecto realizado en conjunto con amigos, en el que se simula un juego de Black
 Desarrollo de una herramienta interactiva en Python usando Dash y Plotly para analizar el comportamiento del tráfico aéreo en Colombia.
 Se conectó directamente a una base de datos PostgreSQL para generar gráficas en tiempo real sobre:
 
-    Ranking de países con más ciudades registradas.
+Ranking de países con más ciudades registradas.
 
-    Ciudades con más vuelos de origen/destino.
+Ciudades con más vuelos de origen/destino.
 
-    Empresas con más vuelos y pasajeros.
+Empresas con más vuelos y pasajeros.
 
-    Aeropuertos más utilizados.
-    Incluye un frontend web con navegación de escenarios y conclusiones analíticas.
-    📌 Tecnologías: Dash, Plotly, PostgreSQL, pandas, SQL, Python.
+Aeropuertos más utilizados.
+
+Incluye un frontend web con navegación de escenarios y conclusiones analíticas.
+📌 Tecnologías: Dash, Plotly, PostgreSQL, pandas, SQL, Python.
 
 ---
 
