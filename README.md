@@ -61,6 +61,8 @@ Proyecto colaborativo para construir una plataforma de administración de parque
   Apoyé en pruebas y verificación de la integridad del sistema frente a la lógica definida en el modelo entidad-relación.
 
 📌 Tecnologías: Dash, Plotly, PostgreSQL, pandas, SQL, Python, HTML.
+
+
 ---
 
 ### 📊 GitHub Analytics
