@@ -33,6 +33,7 @@ Empresas con más vuelos y pasajeros.
 Aeropuertos más utilizados.
 
 Incluye un frontend web con navegación de escenarios y conclusiones analíticas.
+
 📌 Tecnologías: Dash, Plotly, PostgreSQL, pandas, SQL, Python.
 
 ---
