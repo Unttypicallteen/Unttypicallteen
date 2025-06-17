@@ -19,6 +19,7 @@
 
 🃏 Simulador de BlackJack en C++ – Lógica de juego y manejo de turnos
 Desarrollo de un juego interactivo de BlackJack por consola, implementado desde cero en C++ en colaboración con amigos.
+
 👩‍💻 Mi participación:
 
   Implementé la lógica de juego basada en reglas reales del BlackJack.
@@ -47,6 +48,7 @@ Incluye un frontend web con navegación de escenarios y conclusiones analíticas
 
 🅿️ Corner-X MACC – Gestión de Parqueaderos con Dash y PostgreSQL
 Proyecto colaborativo para construir una plataforma de administración de parqueaderos y monitoreo de accesos vehiculares.
+
 👩‍💻 Mi participación:
 
   Desarrollé todas las conexiones entre la base de datos PostgreSQL y la aplicación Dash, incluyendo consultas, carga dinámica de datos y validaciones.
